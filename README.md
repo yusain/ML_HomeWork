@@ -1,2 +1,2 @@
 # ML_HomeWork
-this repository  used for homework
+* this repository  used for homework👋
